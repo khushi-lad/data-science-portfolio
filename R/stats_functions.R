@@ -1,4 +1,4 @@
-# Assignment 3
+# Statistical Functions & Visualization
 
 # Question 1
 IQR.outliers = function(x) {
