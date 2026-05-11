@@ -13,10 +13,9 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ---
 
 ## 📊 R Projects – Statistical Analysis & Data Modelling
-- [Statistical Simulation & Inference] – Monte Carlo methods, bootstrap sampling, and probability-based simulation techniques.  
-- [Multiple Regression Analysis] – Linear regression with continuous and categorical variables, interpretation of coefficients, and model evaluation.  
-- [Model Diagnostics & Evaluation] – Residual analysis, goodness-of-fit measures, and validation of regression assumptions.  
-- [Data Exploration & Visualization] – Exploratory data analysis using plots, summary statistics, and distribution analysis.  
+- [`Statistical Functions`] – Custom statistical utilities for data analysis, exploratory statistics, and visualization of distributions and relationships.  
+- [`Monte Carlo Simulation`] – Random sampling methods, simulation-based probability estimation, and numerical experimentation for statistical inference.  
+- [`Bootstrap Time Series`] – Resampling techniques for time series data, uncertainty estimation, and trend/variability analysis over time.  
 
 ---
 
