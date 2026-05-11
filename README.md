@@ -13,10 +13,10 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ---
 
 ## 📊 R Projects – Statistical Analysis & Data Modelling
-- [Binary Search Tree](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/binary-search-tree) – Recursive insertion, breadth-first traversal, and height calculation.
-- [Doubly Linked List Editor](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/doubly-linked-list-editor) – Node management, pointer manipulation, and traversal.
-- [Scrabble](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/scrabble) – Word validation, letter matching, and scoring logic.
-- [Solving the Maze](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/solving-the-maze) – Recursive traversal, backtracking, and visualization.
+- [Statistical Simulation & Inference] – Monte Carlo methods, bootstrap sampling, and probability-based simulation techniques.  
+- [Multiple Regression Analysis] – Linear regression with continuous and categorical variables, interpretation of coefficients, and model evaluation.  
+- [Model Diagnostics & Evaluation] – Residual analysis, goodness-of-fit measures, and validation of regression assumptions.  
+- [Data Exploration & Visualization] – Exploratory data analysis using plots, summary statistics, and distribution analysis.  
 
 ---
 
