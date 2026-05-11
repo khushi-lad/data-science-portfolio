@@ -5,15 +5,14 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 
 ---
 
-## 🐍 Python Projects – VS Code
-- [Air Travel](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/air-travel) – Flight search, route validation, and maintenance cost analysis.
-- [Encrypt-o-Matic](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/encrypt-o-matic) – Caesar and Vigenere ciphers, file processing, and frequency analysis.
-- [Healthcare Wait Time Optimizer](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/healthcare-wait-time-optimizer) – User input validation, wait time estimation, and result summarization.  
-- [Movie Night](https://github.com/khushi-lad/data-science-portfolio/tree/main/Python/movie-night) – User input validation, pricing logic, and total cost calculation.
+## 🐍 Python Projects – Statistical Modeling & Machine Learning
+- [Multiple Regression] – Linear regression with categorical variables, bootstrap inference, and interpretation of coefficients.  
+- [Logistic Regression] – Binary classification using logistic models, likelihood estimation, and probability modeling.  
+- [Model Selection] – Cross-validation, feature selection, ridge regression, and bias-variance tradeoff analysis.  
 
 ---
 
-## 📊 R Projects – R Studio 
+## 📊 R Projects – Statistical Analysis & Data Modelling
 - [Binary Search Tree](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/binary-search-tree) – Recursive insertion, breadth-first traversal, and height calculation.
 - [Doubly Linked List Editor](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/doubly-linked-list-editor) – Node management, pointer manipulation, and traversal.
 - [Scrabble](https://github.com/khushi-lad/data-science-portfolio/tree/main/Java/scrabble) – Word validation, letter matching, and scoring logic.
