@@ -1,4 +1,4 @@
-# Assignment 5
+# Bootstrap & Time Series Modelling
 
 # Question 1
 n = 30
