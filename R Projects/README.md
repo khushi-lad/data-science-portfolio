@@ -26,4 +26,4 @@ A collection of R scripts focused on statistical analysis, simulation, and infer
 ## 📂 Files
 - [`stats_functions.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R/stats_functions.R) – custom statistical functions, exploratory analysis, and visualization  
 - [`monte_carlo_simulation.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R/monte_carlo_simulation.R) – simulation-based methods, randomness testing, and Monte Carlo inference  
-- [`bootstrap_time_series.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R/bootstrap_time_series.R) – bootstrap techniques, time series modeling, and trend analysis  
+- [`bootstrap_time_series.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/bootstrap_time_series.R) – bootstrap techniques, time series modeling, and trend analysis  
