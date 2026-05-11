@@ -6,9 +6,9 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ---
 
 ## 🐍 Python Projects – Statistical Modeling & Machine Learning
-- [Multiple Regression] – Linear regression with categorical variables, bootstrap inference, and interpretation of coefficients.  
-- [Logistic Regression] – Binary classification using logistic models, likelihood estimation, and probability modeling.  
-- [Model Selection] – Cross-validation, feature selection, ridge regression, and bias-variance tradeoff analysis.  
+- [`Multiple Regression`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/README.md) – Linear regression with categorical variables, bootstrap inference, and interpretation of coefficients.  
+- [`Logistic Regression`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/README.md) – Binary classification using logistic models, likelihood estimation, and probability modeling.  
+- [`Model Selection`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/README.md) – Cross-validation, feature selection, ridge regression, and bias-variance tradeoff analysis.  
 
 ---
 
