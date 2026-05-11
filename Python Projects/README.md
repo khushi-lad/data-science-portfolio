@@ -31,7 +31,7 @@ A collection of Python-based statistical modelling projects focused on regressio
 ## 📂 Files
 - [`multiple_regression.ipynb`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/multiple_regression.ipynb) – multiple linear regression, exploratory data analysis, and interpretation of regression coefficients
   - Data: [`possum.csv`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/possum.csv)
-- [`logistic_regression.ipynb`](https://github.com/your-username/your-repo/blob/main/logistic_regression.ipynb) – logistic regression from scratch, likelihood-based optimization, and binary classification modeling  
+- [`logistic_regression.ipynb`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/logistic_regression.ipynb) – logistic regression from scratch, likelihood-based optimization, and binary classification modeling  
   - Data: [`gifted.csv`](https://github.com/your-username/your-repo/blob/main/data/gifted.csv)
 - [`model_selection.ipynb`](https://github.com/your-username/your-repo/blob/main/model_selection.ipynb) – cross-validation, feature selection, and ridge regression for predictive modeling
   - Data: [`kaiser.csv`](https://github.com/your-username/your-repo/blob/main/data/kaiser.csv)
