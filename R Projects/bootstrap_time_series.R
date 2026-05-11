@@ -1,4 +1,4 @@
-# # Bootstrap & Time Series Modelling
+# Bootstrap & Time Series Modelling
 
 # Question 1
 n = 30
