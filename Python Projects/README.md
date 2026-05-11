@@ -20,11 +20,7 @@ A collection of Python-based statistical modelling projects focused on regressio
 
 ## ▶️ How to Run
 1. Open the `.ipynb` files in Jupyter Notebook or VS Code  
-2. Install required packages if needed:
-   ```bash
-   pip install numpy pandas matplotlib scipy
-   ```
-3. Run the notebooks sequentially from top to bottom
+2. Run the notebooks sequentially from top to bottom
 
 ## 📂 Files
 - [`multiple_regression.ipynb`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/multiple_regression.ipynb) – multiple linear regression, exploratory data analysis, and interpretation of regression coefficients
