@@ -1,4 +1,4 @@
-# Assignment 4
+# Monte Carlo Simulation & Randomness
 
 # Question 1
 my.unif = function(n, a, c=0, m, x0) {
