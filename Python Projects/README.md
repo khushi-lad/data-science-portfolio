@@ -29,4 +29,6 @@ A collection of Python-based statistical modelling projects focused on regressio
 3. Run the notebooks sequentially from top to bottom
 
 ## 📂 Files
-- 
+- [`stats_functions.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/stats_functions.R) – custom statistical functions, exploratory analysis, and visualization  
+- [`monte_carlo_simulation.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/monte_carlo_simulation.R) – simulation-based methods, randomness testing, and Monte Carlo inference  
+- [`bootstrap_time_series.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/bootstrap_time_series.R) – bootstrap techniques, time series modeling, and trend analysis  
