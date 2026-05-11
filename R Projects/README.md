@@ -19,11 +19,13 @@ A collection of R scripts focused on statistical analysis, simulation, and infer
 - Statistical hypothesis testing  
 
 ## ▶️ How to Run
-1. Open the `.R` files in RStudio or another R environment  
-2. Install required packages (e.g., `MASS`) if prompted  
-3. Run the scripts sequentially or source them using `source("filename.R")`
+1. Open the `.R` files in RStudio
+2. Run the scripts sequentially
 
 ## 📂 Files
-- [`stats_functions.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/stats_functions.R) – custom statistical functions, exploratory analysis, and visualization  
+- [`stats_functions.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/stats_functions.R) – custom statistical functions, exploratory analysis, and visualization
+  - Data: [`gt1880.2025.csv`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/possum.csv)
 - [`monte_carlo_simulation.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/monte_carlo_simulation.R) – simulation-based methods, randomness testing, and Monte Carlo inference  
-- [`bootstrap_time_series.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/bootstrap_time_series.R) – bootstrap techniques, time series modeling, and trend analysis  
+- [`bootstrap_time_series.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/bootstrap_time_series.R) – bootstrap techniques, time series modeling, and trend analysis
+  - Data: [`gt1880.2025.csv`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/possum.csv)
+  - Data: [`huron.R`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/possum.csv)  
