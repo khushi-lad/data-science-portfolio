@@ -33,5 +33,5 @@ A collection of Python-based statistical modelling projects focused on regressio
   - Data: [`possum.csv`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/possum.csv)
 - [`logistic_regression.ipynb`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/logistic_regression.ipynb) – logistic regression from scratch, likelihood-based optimization, and binary classification modeling  
   - Data: [`gifted.csv`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/gifted.csv)
-- [`model_selection.ipynb`](https://github.com/your-username/your-repo/blob/main/model_selection.ipynb) – cross-validation, feature selection, and ridge regression for predictive modeling
+- [`model_selection.ipynb`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/model_selection.ipynb) – cross-validation, feature selection, and ridge regression for predictive modeling
   - Data: [`kaiser.csv`](https://github.com/your-username/your-repo/blob/main/data/kaiser.csv)
