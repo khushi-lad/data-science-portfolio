@@ -8,14 +8,12 @@ A collection of Python-based statistical modelling projects focused on regressio
 - Gradient-based optimization for model fitting  
 - Bootstrap methods for statistical inference  
 - K-fold cross-validation for model evaluation  
-- Ridge regression (L2 regularization) 
-- Data visualization for model interpretation  
+- Ridge regression (L2 regularization)  
 
 ## 💡 Concepts Used
 - Multiple linear regression  
 - Logistic regression for binary classification  
 - Maximum likelihood estimation  
-- Bootstrap confidence intervals  
 - Cross-validation (model evaluation)  
 - Feature selection and model comparison  
 - Regularization and bias-variance tradeoff  
@@ -34,4 +32,4 @@ A collection of Python-based statistical modelling projects focused on regressio
 - [`logistic_regression.ipynb`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/logistic_regression.ipynb) – logistic regression from scratch, likelihood-based optimization, and binary classification modeling  
   - Data: [`gifted.csv`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/gifted.csv)
 - [`model_selection.ipynb`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/model_selection.ipynb) – cross-validation, feature selection, and ridge regression for predictive modeling
-  - Data: [`kaiser.csv`](https://github.com/your-username/your-repo/blob/main/data/kaiser.csv)
+  - Data: [`kaiser.csv`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/kaiser.csv)
