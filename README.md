@@ -13,9 +13,9 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ---
 
 ## 📊 R Projects – Statistical Analysis & Data Modelling
-- [`Statistical Functions`] – Custom statistical utilities for data analysis, exploratory statistics, and visualization of distributions and relationships.  
-- [`Monte Carlo Simulation`] – Random sampling methods, simulation-based probability estimation, and numerical experimentation for statistical inference.  
-- [`Bootstrap Time Series`] – Resampling techniques for time series data, uncertainty estimation, and trend/variability analysis over time.  
+- [`Statistical Functions`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/README.md) – Custom statistical utilities for data analysis, exploratory statistics, and visualization of distributions and relationships.  
+- [`Monte Carlo Simulation`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/README.md) – Random sampling methods, simulation-based probability estimation, and numerical experimentation for statistical inference.  
+- [`Bootstrap Time Series`](https://github.com/khushi-lad/data-science-portfolio/blob/main/R%20Projects/README.md) – Resampling techniques for time series data, uncertainty estimation, and trend/variability analysis over time.  
 
 ---
 
