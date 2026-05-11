@@ -29,7 +29,7 @@ A collection of Python-based statistical modelling projects focused on regressio
 3. Run the notebooks sequentially from top to bottom
 
 ## 📂 Files
-- [`multiple_regression.ipynb`](https://github.com/your-username/your-repo/blob/main/multiple_regression.ipynb) – multiple linear regression, exploratory data analysis, and interpretation of regression coefficients
+- [`multiple_regression.ipynb`](https://github.com/khushi-lad/data-science-portfolio/blob/main/Python%20Projects/multiple_regression.ipynb) – multiple linear regression, exploratory data analysis, and interpretation of regression coefficients
   - Data: [`possum.csv`](https://github.com/your-username/your-repo/blob/main/data/possum.csv)
 
 - [`logistic_regression.ipynb`](https://github.com/your-username/your-repo/blob/main/logistic_regression.ipynb) – logistic regression from scratch, likelihood-based optimization, and binary classification modeling  
