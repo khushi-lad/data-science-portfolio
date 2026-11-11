@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Khushi!
 🎓 **Data Science Student | University of Western Ontario**
 
-Welcome to my portfolio! This repository highlights my projects in **data science**, **Python**, and **Java**, showcasing my interests in analytics, problem-solving, and programming.
+Welcome to my portfolio! This repository highlights my projects in **data science**, **Python**, and **R**, showcasing my interests in analytics, problem-solving, and programming.
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my portfolio! This repository highlights my projects in **data scienc
 ## 🛠️ Technical Skills
 - **Languages:** Python, SQL, R, Java, C
 - **Data Analysis:** Pandas, NumPy, SciPy, Excel
-- **Machine Learning:** Scikit-Learn, PyTorch, TensorFlow
+- **Machine Learning:** Scikit-Learn
 - **Visualization:** Matplotlib, Seaborn, Tableau, Power BI
 - **Tools:** VS Code, RStudio, Jupyter Notebook, PyCharm, Google Colab, GitHub, GitLab, Git 
 
